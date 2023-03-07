@@ -1,0 +1,22 @@
+[
+  {
+    "QuizSeasonName": "Matthew",
+    "PackagePath": "2022/Matthew2022.zip",
+    "QuizYear": "2022",
+    "BibleVersion": "NIV"
+    "RulebookPath": "2022/BQ Rulebook 1.pdf"
+  },
+  {
+    "QuizSeasonName": "Ts & Js",
+    "PackagePath": "2023/TJs2023.zip",
+    "QuizYear": "2023",
+    "BibleVersion": "NLT"
+    "RulebookPath": "2023/22-23-BQ-Rules.pdf"
+  },
+  {
+    "QuizSeasonName": "Romans & James",
+    "PackagePath": "2024/RomansJames2024.zip",
+    "QuizYear": "2024",
+    "BibleVersion": "NLT"
+  }
+]

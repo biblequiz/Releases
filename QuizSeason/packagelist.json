@@ -1,19 +1,19 @@
 [
   {
     "QuizSeasonName": "Matthew",
-    "PackagePath": "2022Matthew.zip",
+    "PackageName": "2022Matthew.zip",
     "QuizYear": "2022",
     "BibleVersion": "NIV"
   },
   {
     "QuizSeasonName": "Ts & Js",
-    "PackagePath": "2023TJs.zip",
+    "PackageName": "2023TJs.zip",
     "QuizYear": "2023",
     "BibleVersion": "NLT"
   },
   {
     "QuizSeasonName": "Romans & James",
-    "PackagePath": "2024RomansJames.zip",
+    "PackageName": "2024RomansJames.zip",
     "QuizYear": "2024",
     "BibleVersion": "NLT"
   }

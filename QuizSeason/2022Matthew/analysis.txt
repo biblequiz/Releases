@@ -1,0 +1,900 @@
+Book	Chapter	Start	End	Type	Label	Text	Notes
+M	1	1	1	Individual		Jesus	
+M	1	16	16	Individual		Jesus	
+M	1	18	18	Individual		Jesus	
+M	1	21	21	Individual		Jesus	
+M	1	25	25	Individual		Jesus	
+M	1	1	1	Individual		David	
+M	1	6	6	Individual		David	
+M	1	17	17	Individual		David	
+M	1	20	20	Individual		David	
+M	1	1	1	Individual		Abraham	
+M	1	2	2	Individual		Abraham	
+M	1	17	17	Individual		Abraham	
+M	1	2	2	Individual		Isaac	
+M	1	2	2	Individual	Jacob (Israel)	Jacob	
+M	1	15	15	Individual	Jacob (Israel)	Jacob	
+M	1	2	2	Individual		Judah	
+M	1	3	3	Individual		Judah	
+M	1	3	3	Individual		Perez	
+M	1	3	3	Individual		Zerah	
+M	1	3	3	Individual		Tamar	
+M	1	3	3	Individual		Hezron	
+M	1	3	3	Individual		Ram	
+M	1	4	4	Individual		Ram	
+M	1	4	4	Individual		Amminadab	
+M	1	4	4	Individual		Nahshon	
+M	1	4	4	Individual		Salmon	
+M	1	5	5	Individual		Salmon	
+M	1	5	5	Individual		Boaz	
+M	1	5	5	Individual		Rahab	
+M	1	5	5	Individual		Obed	
+M	1	5	5	Individual		Ruth	
+M	1	5	5	Individual		Jesse	
+M	1	6	6	Individual		Jesse	
+M	1	6	6	Individual		Solomon	
+M	1	7	7	Individual		Solomon	
+M	1	6	6	Individual		Uriah	
+M	1	7	7	Individual		Rehoboam	
+M	1	7	7	Individual		Abijah	
+M	1	7	7	Individual		Asa	
+M	1	8	8	Individual		Asa	
+M	1	8	8	Individual		Jehoshaphat	
+M	1	8	8	Individual		Jehoram	
+M	1	8	8	Individual		Uzziah	
+M	1	9	9	Individual		Uzziah	
+M	1	9	9	Individual		Jotham	
+M	1	9	9	Individual		Ahaz	
+M	1	9	9	Individual		Hezekiah	
+M	1	10	10	Individual		Hezekiah	
+M	1	10	10	Individual		Manasseh	
+M	1	10	10	Individual		Amon	
+M	1	10	10	Individual		Josiah	
+M	1	11	11	Individual		Josiah	
+M	1	11	11	Individual		Jeconiah	
+M	1	12	12	Individual		Jeconiah	
+M	1	12	12	Individual		Shealtiel	
+M	1	12	12	Individual		Zerubbabel	
+M	1	13	13	Individual		Zerubbabel	
+M	1	13	13	Individual		Abihud	
+M	1	13	13	Individual		Eliakim	
+M	1	13	13	Individual		Azor	
+M	1	14	14	Individual		Azor	
+M	1	14	14	Individual		Zadok	
+M	1	14	14	Individual		Akim	
+M	1	14	14	Individual		Elihud	
+M	1	15	15	Individual		Elihud	
+M	1	15	15	Individual		Eleazar	
+M	1	15	15	Individual		Matthan	
+M	1	16	16	Individual	Jacob (Joseph's father)	Jacob	
+M	1	16	16	Individual	Joseph (Jesus' father)	Joseph	
+M	1	18	18	Individual	Joseph (Jesus' father)	Joseph	
+M	1	19	19	Individual	Joseph (Jesus' father)	Joseph	
+M	1	20	20	Individual	Joseph (Jesus' father)	Joseph	
+M	1	24	24	Individual	Joseph (Jesus' father)	Joseph	
+M	1	16	16	Individual	Mary (Jesus' mother)	Mary	
+M	1	18	18	Individual	Mary (Jesus' mother)	Mary	
+M	1	20	20	Individual	Mary (Jesus' mother)	Mary	
+M	1	24	24	Individual	Mary (Jesus' mother)	Mary	
+M	1	11	11	Location		Babylon	
+M	1	12	12	Location		Babylon	
+M	1	17	17	Location		Babylon	
+M	1	23	23	Parenthetical		(which means "God with us")	
+M	1	23	23	OldTestament		The virgin will conceive and give birth to a son, and they will call him Immanuel	
+M	2	1	1	Individual		Jesus	
+M	2	1	1	Individual		Herod	
+M	2	3	3	Individual		Herod	
+M	2	7	7	Individual		Herod	
+M	2	12	12	Individual		Herod	
+M	2	13	13	Individual		Herod	
+M	2	15	15	Individual		Herod	
+M	2	16	16	Individual		Herod	
+M	2	19	19	Individual		Herod	
+M	2	22	22	Individual		Herod	
+M	2	11	11	Individual	Mary (Jesus' mother)	Mary	
+M	2	13	13	Individual	Joseph (Jesus' father)	Joseph	
+M	2	19	19	Individual	Joseph (Jesus' father)	Joseph	
+M	2	17	17	Individual		Jeremiah	
+M	2	18	18	Individual		Rachel	
+M	2	22	22	Individual		Archelaus	
+M	2	1	1	Location		Bethlehem	
+M	2	5	5	Location		Bethlehem	
+M	2	6	6	Location		Bethlehem	
+M	2	8	8	Location		Bethlehem	
+M	2	16	16	Location		Bethlehem	
+M	2	1	1	Location		Judea	
+M	2	5	5	Location		Judea	
+M	2	22	22	Location		Judea	
+M	2	1	1	Location		Jerusalem	
+M	2	3	3	Location		Jerusalem	
+M	2	6	6	Location		Judah	
+M	2	13	13	Location		Egypt	
+M	2	14	14	Location		Egypt	
+M	2	15	15	Location		Egypt	
+M	2	19	19	Location		Egypt	
+M	2	18	18	Location		Ramah	
+M	2	20	20	Location		Israel	
+M	2	21	21	Location		Israel	
+M	2	22	22	Location		Galilee	
+M	2	23	23	Location		Nazareth	
+M	2	6	6	OldTestament		But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel.	
+M	2	15	15	OldTestament		Out of Egypt I called my son.	
+M	2	18	18	OldTestament		A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.	
+M	2	2	2	Question		Where is the one who has been born king of the Jews?	
+M	3	1	1	Individual	John (Baptist)	John	
+M	3	4	4	Individual	John (Baptist)	John	
+M	3	13	13	Individual	John (Baptist)	John	
+M	3	14	14	Individual	John (Baptist)	John	
+M	3	15	15	Individual	John (Baptist)	John	
+M	3	3	3	Individual		Isaiah	
+M	3	9	9	Individual		Abraham	
+M	3	13	13	Individual		Jesus	
+M	3	15	15	Individual		Jesus	
+M	3	16	16	Individual		Jesus	
+M	3	1	1	Location		Judea	
+M	3	5	5	Location		Judea	
+M	3	5	5	Location		Jerusalem	
+M	3	5	5	Location		Jordan	
+M	3	13	13	Location		Jordan	
+M	3	6	6	Location		Jordan River	
+M	3	13	13	Location		Galilee	
+M	3	7	7	Exclamation		You brood of vipers!	
+M	3	3	3	OldTestament		A voice of one calling in the wilderness, 'Prepare the way for the Lord, make straight paths for him.'	
+M	3	7	7	Question		Who warned you to flee from the coming wrath?	
+M	3	14	14	Question		I need to be baptized by you, and do you come to me?	
+M	4	1	1	Individual		Jesus	
+M	4	4	4	Individual		Jesus	
+M	4	7	7	Individual		Jesus	
+M	4	10	10	Individual		Jesus	
+M	4	12	12	Individual		Jesus	
+M	4	17	17	Individual		Jesus	
+M	4	18	18	Individual		Jesus	
+M	4	19	19	Individual		Jesus	
+M	4	21	21	Individual		Jesus	
+M	4	23	23	Individual		Jesus	
+M	4	12	12	Individual	John (Baptist)	John	
+M	4	14	14	Individual		Isaiah	
+M	4	18	18	Individual	Peter (Simon)	Simon	
+M	4	18	18	Individual	Peter (Simon)	Peter	
+M	4	18	18	Individual		Andrew	
+M	4	21	21	Individual	James (Zebedee)	James	
+M	4	21	21	Individual		Zebedee	
+M	4	21	21	Individual	John (Zebedee)	John	
+M	4	12	12	Location		Galilee	
+M	4	15	15	Location		Galilee	
+M	4	23	23	Location		Galilee	
+M	4	25	25	Location		Galilee	
+M	4	13	13	Location		Nazareth	
+M	4	13	13	Location		Capernaum	
+M	4	13	13	Location		Zebulun	
+M	4	15	15	Location		Zebulun	
+M	4	13	13	Location		Naphtali	
+M	4	15	15	Location		Naphtali	
+M	4	15	15	Location		Jordan	
+M	4	25	25	Location		Jordan	
+M	4	18	18	Location		Sea of Galilee	
+M	4	24	24	Location		Syria	
+M	4	25	25	Location		Decapolis	
+M	4	25	25	Location		Jerusalem	
+M	4	25	25	Location		Judea	
+M	4	10	10	Exclamation		Away from me, Satan!	
+M	4	4	4	OldTestament		Man shall not live on bread alone, but on every word that comes from the mouth of God.	
+M	4	6	6	OldTestament		He will command his angels concerning you, and they will lift you up in their hands, so that you will not strike your foot against a stone.	
+M	4	7	7	OldTestament		Do not put the Lord your God to the test.	
+M	4	10	10	OldTestament		Worship the Lord your God, and serve him only.	
+M	4	15	16	OldTestament		Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles - the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned.	
+M	5	1	1	Individual		Jesus	
+M	5	35	35	Location		Jerusalem	
+M	5	22	22	Exclamation		You fool!	
+M	5	21	21	OldTestament		You shall not murder,	
+M	5	27	27	OldTestament		You shall not commit adultery.	
+M	5	31	31	OldTestament		Anyone who divorces his wife must give her a certificate of divorce.	
+M	5	38	38	OldTestament		Eye for eye, and tooth for tooth.	
+M	5	43	43	OldTestament		Love your neighbor	
+M	5	13	13	Question		But if the salt loses its saltiness, how can it be made salty again?	
+M	5	46	46	Question		If you love those who love you, what reward will you get?	
+M	5	46	46	Question		Are not even the tax collectors doing that?	
+M	5	47	47	Question		And if you greet only your own people, what are you doing more than others?	
+M	5	47	47	Question		Do not even pagans do that?	
+M	6	29	29	Individual		Solomon	
+M	6	23	23	Exclamation		If then the light within you is darkness, how great is that darkness!	
+M	6	25	25	Question		Is not life more than food, and the body more than clothes?	
+M	6	26	26	Question		Are you not much more valuable than they?	
+M	6	27	27	Question		Can any one of you by worrying add a single hour to your life?	
+M	6	28	28	Question		And why do you worry about clothes?	
+M	6	30	30	Question		If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you - you of little faith?	
+M	6	31	31	Question		What shall we eat?	
+M	6	31	31	Question		What shall we drink?	
+M	6	31	31	Question		What shall we wear?	
+M	7	28	28	Individual		Jesus	
+M	7	11	11	Exclamation		If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!	
+M	7	23	23	Exclamation		Away from me, you evildoers!	
+M	7	3	3	Question		Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?	
+M	7	4	4	Question		How can you say to your brother, 'Let me take the speck out of your eye,' when all the time there is a plank in your own eye?	
+M	7	9	9	Question		Which of you, if your son asks for bread, will give him a stone?	
+M	7	10	10	Question		Or if he asks for a fish, will give him a snake?	
+M	7	16	16	Question		Do people pick grapes from thornbushes, or figs from thistles?	
+M	7	22	22	Question		Lord, Lord, did we not prophesy in your name and in your name drive out demons and in your name perform many miracles?	
+M	8	1	1	Individual		Jesus	
+M	8	3	3	Individual		Jesus	
+M	8	4	4	Individual		Jesus	
+M	8	5	5	Individual		Jesus	
+M	8	7	7	Individual		Jesus	
+M	8	10	10	Individual		Jesus	
+M	8	13	13	Individual		Jesus	
+M	8	14	14	Individual		Jesus	
+M	8	18	18	Individual		Jesus	
+M	8	20	20	Individual		Jesus	
+M	8	22	22	Individual		Jesus	
+M	8	24	24	Individual		Jesus	
+M	8	31	31	Individual		Jesus	
+M	8	34	34	Individual		Jesus	
+M	8	4	4	Individual		Moses	
+M	8	11	11	Individual		Abraham	
+M	8	11	11	Individual		Isaac	
+M	8	11	11	Individual	Jacob (Israel)	Jacob	
+M	8	14	14	Individual	Peter (Simon)	Peter	
+M	8	17	17	Individual		Isaiah	
+M	8	5	5	Location		Capernaum	
+M	8	10	10	Location		Israel	
+M	8	3	3	Exclamation		Be clean!	
+M	8	13	13	Exclamation		Go!	
+M	8	25	25	Exclamation		Lord, save us!	
+M	8	25	25	Exclamation		We're going to drown!	
+M	8	27	27	Exclamation		Even the winds and the waves obey him!	
+M	8	32	32	Exclamation		Go!	
+M	8	17	17	OldTestament		He took up our infirmities and bore our diseases.	
+M	8	7	7	Question		Shall I come and heal him?	
+M	8	26	26	Question		You of little faith, why are you so afraid?	
+M	8	27	27	Question		What kind of man is this?	
+M	8	29	29	Question		What do you want with us, Son of God?	
+M	8	29	29	Question		Have you come here to torture us before the appointed time?	
+M	9	1	1	Individual		Jesus	
+M	9	2	2	Individual		Jesus	
+M	9	4	4	Individual		Jesus	
+M	9	9	9	Individual		Jesus	
+M	9	10	10	Individual		Jesus	
+M	9	12	12	Individual		Jesus	
+M	9	15	15	Individual		Jesus	
+M	9	19	19	Individual		Jesus	
+M	9	22	22	Individual		Jesus	
+M	9	23	23	Individual		Jesus	
+M	9	27	27	Individual		Jesus	
+M	9	30	30	Individual		Jesus	
+M	9	32	32	Individual		Jesus	
+M	9	35	35	Individual		Jesus	
+M	9	9	9	Individual		Matthew	
+M	9	10	10	Individual		Matthew	
+M	9	14	14	Individual	John (Baptist)	John	
+M	9	27	27	Individual		David	
+M	9	33	33	Location		Israel	
+M	9	3	3	Exclamation		This fellow is blaspheming!	
+M	9	27	27	Exclamation		Have mercy on us, Son of David!	
+M	9	13	13	OldTestament		I desire mercy, not sacrifice.	
+M	9	4	4	Question		Why do you entertain evil thoughts in your hearts?	
+M	9	5	5	Question		Which is easier: to say, 'Your sins are forgiven,' or to say, 'Get up and walk'?	
+M	9	11	11	Question		Why does your teacher eat with tax collectors and sinners?	
+M	9	14	14	Question		How is it that we and the Pharisees fast often, but your disciples do not fast?	
+M	9	15	15	Question		How can the guests of the bridegroom mourn while he is with them?	
+M	9	28	28	Question		Do you believe that I am able to do this?	
+M	10	1	1	Individual		Jesus	
+M	10	5	5	Individual		Jesus	
+M	10	2	2	Individual	Peter (Simon)	Simon	
+M	10	2	2	Individual	Peter (Simon)	Peter	
+M	10	2	2	Individual		Andrew	
+M	10	2	2	Individual	James (Zebedee)	James	
+M	10	2	2	Individual		Zebedee	
+M	10	2	2	Individual	John (Zebedee)	John	
+M	10	3	3	Individual		Philip	
+M	10	3	3	Individual		Bartholomew	
+M	10	3	3	Individual		Thomas	
+M	10	3	3	Individual		Matthew	
+M	10	3	3	Individual	James (Alpheus)	James	
+M	10	3	3	Individual		Alphaeus	
+M	10	3	3	Individual		Thaddaeus	
+M	10	4	4	Individual	Simon (Zealot)	Simon	
+M	10	4	4	Individual		Judas Iscariot	
+M	10	15	15	Location		Sodom	
+M	10	15	15	Location		Gomorrah	
+M	10	23	23	Location		Israel	
+M	10	2	2	Parenthetical		(who is called Peter)	
+M	10	25	25	Exclamation		If the head of the house has been called Beelzebul, how much more the members of his household!	
+M	10	35	36	OldTestament		a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law - a man's enemies will be the members of his own household.	
+M	10	29	29	Question		Are not two sparrows sold for a penny?	
+M	11	1	1	Individual		Jesus	
+M	11	4	4	Individual		Jesus	
+M	11	7	7	Individual		Jesus	
+M	11	20	20	Individual		Jesus	
+M	11	25	25	Individual		Jesus	
+M	11	2	2	Individual	John (Baptist)	John	
+M	11	4	4	Individual	John (Baptist)	John	
+M	11	7	7	Individual	John (Baptist)	John	
+M	11	11	11	Individual	John (Baptist)	John	
+M	11	12	12	Individual	John (Baptist)	John	
+M	11	13	13	Individual	John (Baptist)	John	
+M	11	18	18	Individual	John (Baptist)	John	
+M	11	14	14	Individual		Elijah	
+M	11	1	1	Location		Galilee	
+M	11	21	21	Location		Chorazin	
+M	11	21	21	Location		Bethsaida	
+M	11	21	21	Location		Tyre	
+M	11	22	22	Location		Tyre	
+M	11	21	21	Location		Sidon	
+M	11	22	22	Location		Sidon	
+M	11	23	23	Location		Capernaum	
+M	11	23	23	Location		Sodom	
+M	11	24	24	Location		Sodom	
+M	11	21	21	Exclamation		Woe to you, Chorazin!	
+M	11	21	21	Exclamation		Woe to you, Bethsaida!	
+M	11	10	10	OldTestament		I will send my messenger ahead of you, who will prepare your way before you.	
+M	11	3	3	Question		Are you the one who is to come, or should we expect someone else?	
+M	11	7	7	Question		What did you go out into the wilderness to see?	
+M	11	7	7	Question		A reed swayed by the wind?	
+M	11	8	8	Question		If not, what did you go out to see?	
+M	11	8	8	Question		A man dressed in fine clothes?	
+M	11	9	9	Question		Then what did you go out to see?	
+M	11	9	9	Question		A prophet?	
+M	11	16	16	Question		To what can I compare this generation?	
+M	11	23	23	Question		And you, Capernaum, will you be lifted to the heavens?	
+M	12	1	1	Individual		Jesus	
+M	12	10	10	Individual		Jesus	
+M	12	14	14	Individual		Jesus	
+M	12	15	15	Individual		Jesus	
+M	12	22	22	Individual		Jesus	
+M	12	25	25	Individual		Jesus	
+M	12	46	46	Individual		Jesus	
+M	12	3	3	Individual		David	
+M	12	23	23	Individual		David	
+M	12	17	17	Individual		Isaiah	
+M	12	39	39	Individual		Jonah	
+M	12	40	40	Individual		Jonah	
+M	12	41	41	Individual		Jonah	
+M	12	42	42	Individual		Solomon	
+M	12	41	41	Location		Nineveh	
+M	12	2	2	Exclamation		Look!	
+M	12	12	12	Exclamation		How much more valuable is a person than a sheep!	
+M	12	39	39	Exclamation		A wicked and adulterous generation asks for a sign!	
+M	12	7	7	OldTestament		I desire mercy, not sacrifice	
+M	12	18	21	OldTestament		Here is my servant whom I have chosen, the one I love, in whom I delight; I will put my Spirit on him, and he will proclaim justice to the nations. He will not quarrel or cry out; no one will hear his voice in the streets. A bruised reed he will not break, and a smoldering wick he will not snuff out, till he has brought justice through to victory. In his name the nations will put their hope.	
+M	12	3	3	Question		Haven't you read what David did when he and his companions were hungry?	
+M	12	5	5	Question		Or haven't you read in the Law that the priests on Sabbath duty in the temple desecrate the Sabbath and yet are innocent?	
+M	12	10	10	Question		Is it lawful to heal on the Sabbath?	
+M	12	11	11	Question		If any of you has a sheep and it falls into a pit on the Sabbath, will you not take hold of it and lift it out?	
+M	12	23	23	Question		Could this be the Son of David?	
+M	12	26	26	Question		How then can his kingdom stand?	
+M	12	27	27	Question		And if I drive out demons by Beelzebul, by whom do your people drive them out?	
+M	12	29	29	Question		Or again, how can anyone enter a strong man's house and carry off his possessions unless he first ties up the strong man?	
+M	12	34	34	Question		You brood of vipers, how can you who are evil say anything good?	
+M	12	48	48	Question		Who is my mother, and who are my brothers?	
+M	13	1	1	Individual		Jesus	
+M	13	24	24	Individual		Jesus	
+M	13	34	34	Individual		Jesus	
+M	13	51	51	Individual		Jesus	
+M	13	53	53	Individual		Jesus	
+M	13	57	57	Individual		Jesus	
+M	13	14	14	Individual		Isaiah	
+M	13	55	55	Individual	Mary (Jesus' mother)	Mary	
+M	13	55	55	Individual	James (Jesus' brother)	James	
+M	13	55	55	Individual	Jospeh (Jesus' brother)	Joseph	
+M	13	55	55	Individual	Simon (Jesus' brother)	Simon	
+M	13	55	55	Individual	Judas (Jesus' brother)	Judas	
+M	13	14	15	OldTestament		You will be ever hearing but never understanding; you will be ever seeing but never perceiving. For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.	
+M	13	35	35	OldTestament		I will open my mouth in parables, I will utter things hidden since the creation of the world.	
+M	13	10	10	Question		Why do you speak to the people in parables?	
+M	13	27	27	Question		Sir, didn't you sow good seed in your field?	
+M	13	27	27	Question		Where then did the weeds come from?	
+M	13	28	28	Question		Do you want us to go and pull them up?	
+M	13	51	51	Question		Have you understood all these things?	
+M	13	54	54	Question		Where did this man get this wisdom and these miraculous powers?	
+M	13	55	55	Question		Isn't this the carpenter's son?	
+M	13	55	55	Question		Isn't his mother's name Mary, and aren't his brothers James, Joseph, Simon and Judas?	
+M	13	56	56	Question		Aren't all his sisters with us?	
+M	13	56	56	Question		Where then did this man get all these things?	
+M	14	1	1	Individual		Herod	
+M	14	3	3	Individual		Herod	
+M	14	5	5	Individual		Herod	
+M	14	6	6	Individual		Herod	
+M	14	1	1	Individual		Jesus	
+M	14	12	12	Individual		Jesus	
+M	14	13	13	Individual		Jesus	
+M	14	14	14	Individual		Jesus	
+M	14	16	16	Individual		Jesus	
+M	14	22	22	Individual		Jesus	
+M	14	25	25	Individual		Jesus	
+M	14	27	27	Individual		Jesus	
+M	14	29	29	Individual		Jesus	
+M	14	31	31	Individual		Jesus	
+M	14	35	35	Individual		Jesus	
+M	14	2	2	Individual	John (Baptist)	John	
+M	14	3	3	Individual	John (Baptist)	John	
+M	14	4	4	Individual	John (Baptist)	John	
+M	14	5	5	Individual	John (Baptist)	John	
+M	14	8	8	Individual	John (Baptist)	John	
+M	14	10	10	Individual	John (Baptist)	John	
+M	14	12	12	Individual	John (Baptist)	John	
+M	14	3	3	Individual		Herodias	
+M	14	6	6	Individual		Herodias	
+M	14	3	3	Individual		Philip	
+M	14	28	28	Individual	Peter (Simon)	Peter	
+M	14	29	29	Individual	Peter (Simon)	Peter	
+M	14	34	34	Location		Gennesaret	
+M	14	2	2	Exclamation		This is John the Baptist; he has risen from the dead!	
+M	14	27	27	Exclamation		Take courage!	
+M	14	30	30	Exclamation		Lord, save me!	
+M	14	31	31	Question		You of little faith,{" he said,} {"}why did you doubt?	
+M	15	1	1	Individual		Jesus	
+M	15	3	3	Individual		Jesus	
+M	15	10	10	Individual		Jesus	
+M	15	16	16	Individual		Jesus	
+M	15	21	21	Individual		Jesus	
+M	15	23	23	Individual		Jesus	
+M	15	28	28	Individual		Jesus	
+M	15	29	29	Individual		Jesus	
+M	15	32	32	Individual		Jesus	
+M	15	34	34	Individual		Jesus	
+M	15	39	39	Individual		Jesus	
+M	15	7	7	Individual		Isaiah	
+M	15	15	15	Individual	Peter (Simon)	Peter	
+M	15	22	22	Individual		David	
+M	15	1	1	Location		Jerusalem	
+M	15	21	21	Location		Tyre	
+M	15	21	21	Location		Sidon	
+M	15	29	29	Location		Sea of Galilee	
+M	15	39	39	Location		Magadan	
+M	15	2	2	Exclamation		They don't wash their hands before they eat!	
+M	15	7	7	Exclamation		You hypocrites!	
+M	15	22	22	Exclamation		Lord, Son of David, have mercy on me!	
+M	15	25	25	Exclamation		Lord, help me!	
+M	15	28	28	Exclamation		Woman, you have great faith!	
+M	15	4	4	OldTestament		Honor your father and mother	
+M	15	4	4	OldTestament		Anyone who curses their father or mother is to be put to death.	
+M	15	8	9	OldTestament		These people honor me with their lips, but their hearts are far from me. They worship me in vain; their teachings are merely human rules.	
+M	15	2	2	Question		Why do your disciples break the tradition of the elders?	
+M	15	3	3	Question		And why do you break the command of God for the sake of your tradition?	
+M	15	12	12	Question		Do you know that the Pharisees were offended when they heard this?	
+M	15	16	16	Question		Are you still so dull?	
+M	15	17	17	Question		Don't you see that whatever enters the mouth goes into the stomach and then out of the body?	
+M	15	33	33	Question		Where could we get enough bread in this remote place to feed such a crowd?	
+M	15	34	34	Question		How many loaves do you have?	
+M	16	1	1	Individual		Jesus	
+M	16	4	4	Individual		Jesus	
+M	16	6	6	Individual		Jesus	
+M	16	8	8	Individual		Jesus	
+M	16	13	13	Individual		Jesus	
+M	16	17	17	Individual		Jesus	
+M	16	21	21	Individual		Jesus	
+M	16	23	23	Individual		Jesus	
+M	16	24	24	Individual		Jesus	
+M	16	4	4	Individual		Jonah	
+M	16	14	14	Individual	John (Baptist)	John	
+M	16	14	14	Individual		Elijah	
+M	16	14	14	Individual		Jeremiah	
+M	16	16	16	Individual	Peter (Simon)	Simon Peter	
+M	16	17	17	Individual	Peter (Simon)	Simon	
+M	16	18	18	Individual	Peter (Simon)	Peter	
+M	16	22	22	Individual	Peter (Simon)	Peter	
+M	16	23	23	Individual	Peter (Simon)	Peter	
+M	16	17	17	Individual	Jonah (father of Simon)	Jonah	
+M	16	13	13	Location		Caesarea Philippi	
+M	16	21	21	Location		Jerusalem	
+M	16	22	22	Exclamation		Never, Lord!	
+M	16	22	22	Exclamation		This shall never happen to you!	
+M	16	23	23	Exclamation		Get behind me, Satan!	
+M	16	8	8	Question		You of little faith, why are you talking among yourselves about having no bread?	
+M	16	9	9	Question		Do you still not understand?	
+M	16	9	9	Question		Don't you remember the five loaves for the five thousand, and how many basketfuls you gathered?	
+M	16	10	10	Question		Or the seven loaves for the four thousand, and how many basketfuls you gathered?	
+M	16	11	11	Question		How is it you don't understand that I was not talking to you about bread?	
+M	16	13	13	Question		Who do people say the Son of Man is?	
+M	16	15	15	Question		But what about you?	
+M	16	15	15	Question		Who do you say I am?	
+M	16	26	26	Question		What good will it be for someone to gain the whole world, yet forfeit their soul?	
+M	16	26	26	Question		Or what can anyone give in exchange for their soul?	
+M	17	1	1	Individual		Jesus	
+M	17	3	3	Individual		Jesus	
+M	17	4	4	Individual		Jesus	
+M	17	7	7	Individual		Jesus	
+M	17	8	8	Individual		Jesus	
+M	17	9	9	Individual		Jesus	
+M	17	11	11	Individual		Jesus	
+M	17	14	14	Individual		Jesus	
+M	17	17	17	Individual		Jesus	
+M	17	18	18	Individual		Jesus	
+M	17	19	19	Individual		Jesus	
+M	17	24	24	Individual		Jesus	
+M	17	25	25	Individual		Jesus	
+M	17	26	26	Individual		Jesus	
+M	17	1	1	Individual	Peter (Simon)	Peter	
+M	17	4	4	Individual	Peter (Simon)	Peter	
+M	17	24	24	Individual	Peter (Simon)	Peter	
+M	17	25	25	Individual	Peter (Simon)	Peter	
+M	17	26	26	Individual	Peter (Simon)	Peter	
+M	17	25	25	Individual	Peter (Simon)	Simon	
+M	17	1	1	Individual	James (Zebedee)	James	
+M	17	1	1	Individual	John (Zebedee)	John	
+M	17	3	3	Individual		Moses	
+M	17	4	4	Individual		Moses	
+M	17	3	3	Individual		Elijah	
+M	17	4	4	Individual		Elijah	
+M	17	10	10	Individual		Elijah	
+M	17	11	11	Individual		Elijah	
+M	17	12	12	Individual		Elijah	
+M	17	13	13	Individual	John (Baptist)	John	
+M	17	22	22	Location		Galilee	
+M	17	24	24	Location		Capernaum	
+M	17	5	5	Exclamation		Listen to him!"	
+M	17	10	10	Question		Why then do the teachers of the law say that Elijah must come first?	
+M	17	17	17	Question		You unbelieving and perverse generation,{" Jesus replied,} {"}how long shall I stay with you?	
+M	17	17	17	Question		How long shall I put up with you?	
+M	17	19	19	Question		Why couldn't we drive it out?	
+M	17	24	24	Question		Doesn't your teacher pay the temple tax?	
+M	17	25	25	Question		What do you think, Simon?	
+M	17	25	25	Question		From whom do the kings of the earth collect duty and taxes - from their own children or from others?	
+M	18	1	1	Individual		Jesus	
+M	18	21	21	Individual		Jesus	
+M	18	22	22	Individual		Jesus	
+M	18	21	21	Individual	Peter (Simon)	Peter	
+M	18	7	7	Exclamation		Woe to the world because of the things that cause people to stumble!	
+M	18	7	7	Exclamation		Such things must come, but woe to the person through whom they come!	
+M	18	28	28	Exclamation		Pay back what you owe me!	
+M	18	16	16	OldTestament		every matter may be established by the testimony of two or three witnesses.	
+M	18	1	1	Question		Who, then, is the greatest in the kingdom of heaven?	
+M	18	12	12	Question		What do you think?	
+M	18	12	12	Question		If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?	
+M	18	21	21	Question		Lord, how many times shall I forgive my brother or sister who sins against me?	
+M	18	21	21	Question		Up to seven times?	
+M	18	33	33	Question		Shouldn't you have had mercy on your fellow servant just as I had on you?	
+M	19	1	1	Individual		Jesus	
+M	19	8	8	Individual		Jesus	
+M	19	11	11	Individual		Jesus	
+M	19	13	13	Individual		Jesus	
+M	19	14	14	Individual		Jesus	
+M	19	16	16	Individual		Jesus	
+M	19	17	17	Individual		Jesus	
+M	19	18	18	Individual		Jesus	
+M	19	21	21	Individual		Jesus	
+M	19	23	23	Individual		Jesus	
+M	19	26	26	Individual		Jesus	
+M	19	28	28	Individual		Jesus	
+M	19	7	7	Individual		Moses	
+M	19	8	8	Individual		Moses	
+M	19	27	27	Individual	Peter (Simon)	Peter	
+M	19	1	1	Location		Galilee	
+M	19	1	1	Location		Judea	
+M	19	1	1	Location		Jordan	
+M	19	27	27	Exclamation		We have left everything to follow you!	
+M	19	4	4	OldTestament		made them male and female	
+M	19	5	5	OldTestament		For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh	
+M	19	18	19	OldTestament		You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony, honor your father and mother	
+M	19	19	19	OldTestament		love your neighbor as yourself	
+M	19	3	3	Question		Is it lawful for a man to divorce his wife for any and every reason?"	
+M	19	4	5	Question		Haven't you read,{" he replied,} {"}that at the beginning the Creator 'made them male and female,'{ and said,} 'For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh'?	
+M	19	7	7	Question		Why then,{" they asked,} {"}did Moses command that a man give his wife a certificate of divorce and send her away?	
+M	19	16	16	Question		Teacher, what good thing must I do to get eternal life?	
+M	19	17	17	Question		Why do you ask me about what is good?	
+M	19	18	18	Question		Which ones?	
+M	19	20	20	Question		What do I still lack?	
+M	19	25	25	Question		Who then can be saved?	
+M	19	27	27	Question		What then will there be for us?	
+M	20	17	17	Individual		Jesus	
+M	20	20	20	Individual		Jesus	
+M	20	22	22	Individual		Jesus	
+M	20	23	23	Individual		Jesus	
+M	20	25	25	Individual		Jesus	
+M	20	29	29	Individual		Jesus	
+M	20	30	30	Individual		Jesus	
+M	20	32	32	Individual		Jesus	
+M	20	34	34	Individual		Jesus	
+M	20	20	20	Individual		Zebedee	
+M	20	30	30	Individual		David	
+M	20	31	31	Individual		David	
+M	20	17	17	Location		Jerusalem	
+M	20	18	18	Location		Jerusalem	
+M	20	29	29	Location		Jericho	
+M	20	19	19	Exclamation		On the third day he will be raised to life!	
+M	20	30	30	Exclamation		Lord, Son of David, have mercy on us!	
+M	20	31	31	Exclamation		Lord, Son of David, have mercy on us!	
+M	20	6	6	Question		Why have you been standing here all day long doing nothing?	
+M	20	13	13	Question		Didn't you agree to work for a denarius?	
+M	20	15	15	Question		Don't I have the right to do what I want with my own money?	
+M	20	15	15	Question		Or are you envious because I am generous?	
+M	20	21	21	Question		What is it you want?	
+M	20	22	22	Question		Can you drink the cup I am going to drink?	
+M	20	32	32	Question		What do you want me to do for you?	
+M	21	1	1	Individual		Jesus	
+M	21	6	6	Individual		Jesus	
+M	21	7	7	Individual		Jesus	
+M	21	10	10	Individual		Jesus	
+M	21	11	11	Individual		Jesus	
+M	21	12	12	Individual		Jesus	
+M	21	16	16	Individual		Jesus	
+M	21	18	18	Individual		Jesus	
+M	21	21	21	Individual		Jesus	
+M	21	23	23	Individual		Jesus	
+M	21	24	24	Individual		Jesus	
+M	21	27	27	Individual		Jesus	
+M	21	31	31	Individual		Jesus	
+M	21	42	42	Individual		Jesus	
+M	21	45	45	Individual		Jesus	
+M	21	9	9	Individual		David	
+M	21	15	15	Individual		David	
+M	21	25	25	Individual	John (Baptist)	John	
+M	21	26	26	Individual	John (Baptist)	John	
+M	21	32	32	Individual	John (Baptist)	John	
+M	21	1	1	Location		Jerusalem	
+M	21	10	10	Location		Jerusalem	
+M	21	1	1	Location		Bethphage	
+M	21	1	1	Location		Mount of Olives	
+M	21	5	5	Location		Zion	
+M	21	11	11	Location		Nazareth	
+M	21	11	11	Location		Galilee	
+M	21	17	17	Location		Bethany	
+M	21	9	9	Exclamation		Hosanna to the Son of David!	
+M	21	9	9	Exclamation		Blessed is he who comes in the name of the Lord!	
+M	21	9	9	Exclamation		Hosanna in the highest heaven!	
+M	21	19	19	Exclamation		May you never bear fruit again!	
+M	21	5	5	OldTestament		Say to Daughter Zion, 'See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.'	
+M	21	9	9	OldTestament		Blessed is he who comes in the name of the Lord!	
+M	21	13	13	OldTestament		My house will be called a house of prayer	
+M	21	13	13	OldTestament		den of robbers	
+M	21	16	16	OldTestament		From the lips of children and infants you, Lord, have called forth your praise	
+M	21	42	42	OldTestament		The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvelous in our eyes	
+M	21	10	10	Question		Who is this?	
+M	21	16	16	Question		Do you hear what these children are saying?	
+M	21	16	16	Question		Yes,{" replied Jesus,} {"}have you never read, "'From the lips of children and infants you, Lord, have called forth your praise'?	
+M	21	20	20	Question		How did the fig tree wither so quickly?	
+M	21	23	23	Question		By what authority are you doing these things?	
+M	21	23	23	Question		And who gave you this authority?	
+M	21	25	25	Question		John's baptism - where did it come from?	
+M	21	25	25	Question		Was it from heaven, or of human origin?	
+M	21	25	25	Question		Then why didn't you believe him?	
+M	21	28	28	Question		What do you think?	
+M	21	31	31	Question		Which of the two did what his father wanted?	
+M	21	40	40	Question		Therefore, when the owner of the vineyard comes, what will he do to those tenants?	
+M	21	42	42	Question		Have you never read in the Scriptures: "'The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvelous in our eyes'?	
+M	22	1	1	Individual		Jesus	
+M	22	18	18	Individual		Jesus	
+M	22	29	29	Individual		Jesus	
+M	22	34	34	Individual		Jesus	
+M	22	37	37	Individual		Jesus	
+M	22	41	41	Individual		Jesus	
+M	22	24	24	Individual		Moses	
+M	22	32	32	Individual		Abraham	
+M	22	32	32	Individual		Isaac	
+M	22	32	32	Individual	Jacob (Israel)	Jacob	
+M	22	42	42	Individual		David	
+M	22	43	43	Individual		David	
+M	22	45	45	Individual		David	
+M	22	32	32	OldTestament		I am the God of Abraham, the God of Isaac, and the God of Jacob	
+M	22	37	37	OldTestament		Love the Lord your God with all your heart and with all your soul and with all your mind.	
+M	22	39	39	OldTestament		Love your neighbor as yourself.	
+M	22	44	44	OldTestament		The Lord said to my Lord: "Sit at my right hand until I put your enemies under your feet."	
+M	22	12	12	Question		How did you get in here without wedding clothes, friend?	
+M	22	17	17	Question		Tell us then, what is your opinion?	
+M	22	17	17	Question		Is it right to pay the imperial tax to Caesar or not?	
+M	22	18	18	Question		You hypocrites, why are you trying to trap me?	
+M	22	20	20	Question		Whose image is this?	
+M	22	20	20	Question		And whose inscription?	
+M	22	28	28	Question		Now then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?	
+M	22	31	32	Question		But about the resurrection of the dead - have you not read what God said to you, 'I am the God of Abraham, the God of Isaac, and the God of Jacob'?	
+M	22	36	36	Question		Teacher, which is the greatest commandment in the Law?	
+M	22	42	42	Question		What do you think about the Messiah?	
+M	22	42	42	Question		Whose son is he?	
+M	22	43	43	Question		How is it then that David, speaking by the Spirit, calls him 'Lord'?	
+M	22	45	45	Question		If then David calls him 'Lord,' how can he be his son?	
+M	23	1	1	Individual		Jesus	
+M	23	2	2	Individual		Moses	
+M	23	35	35	Individual		Abel	
+M	23	35	35	Individual		Zechariah	
+M	23	35	35	Individual		Berekiah	
+M	23	37	37	Location		Jerusalem	
+M	23	13	13	Exclamation		Woe to you, teachers of the law and Pharisees, you hypocrites!	
+M	23	15	15	Exclamation		Woe to you, teachers of the law and Pharisees, you hypocrites!	
+M	23	16	16	Exclamation		Woe to you, blind guides!	
+M	23	17	17	Exclamation		You blind fools!	
+M	23	19	19	Exclamation		You blind men!	
+M	23	23	23	Exclamation		Woe to you, teachers of the law and Pharisees, you hypocrites!	
+M	23	24	24	Exclamation		You blind guides!	
+M	23	25	25	Exclamation		Woe to you, teachers of the law and Pharisees, you hypocrites!	
+M	23	26	26	Exclamation		Blind Pharisee!	
+M	23	27	27	Exclamation		Woe to you, teachers of the law and Pharisees, you hypocrites!	
+M	23	29	29	Exclamation		Woe to you, teachers of the law and Pharisees, you hypocrites!	
+M	23	32	32	Exclamation		Go ahead, then, and complete what your ancestors started!	
+M	23	33	33	Exclamation		You snakes!	
+M	23	33	33	Exclamation		You brood of vipers!	
+M	23	39	39	OldTestament		Blessed is he who comes in the name of the Lord.	
+M	23	17	17	Question		Which is greater: the gold, or the temple that makes the gold sacred?	
+M	23	19	19	Question		Which is greater: the gift, or the altar that makes the gift sacred?	
+M	23	33	33	Question		How will you escape being condemned to hell?	
+M	24	1	1	Individual		Jesus	
+M	24	3	3	Individual		Jesus	
+M	24	4	4	Individual		Jesus	
+M	24	15	15	Individual		Daniel	
+M	24	37	37	Individual		Noah	
+M	24	38	38	Individual		Noah	
+M	24	3	3	Location		Mount of Olives	
+M	24	16	16	Location		Judea	
+M	24	19	19	Exclamation		How dreadful it will be in those days for pregnant women and nursing mothers!	
+M	24	23	23	Exclamation		Look, here is the Messiah!	
+M	24	23	23	Exclamation		There he is!	
+M	24	15	15	OldTestament		the abomination that causes desolation,	
+M	24	29	29	OldTestament		the sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the heavenly bodies will be shaken.	
+M	24	2	2	Question		Do you see all these things?"	
+M	24	3	3	Question		Tell us,{" they said,{ {"}when will this happen, and what will be the sign of your coming and of the end of the age?	
+M	24	45	45	Question		Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time?	
+M	25	6	6	Exclamation		Here's the bridegroom!	
+M	25	6	6	Exclamation		Come out to meet him!	
+M	25	11	11	Exclamation		Lord, Lord,{' they said,{ {'}open the door for us!	
+M	25	21	21	Exclamation		Well done, good and faithful servant!	
+M	25	21	21	Exclamation		Come and share your master's happiness!	
+M	25	23	23	Exclamation		Well done, good and faithful servant!	
+M	25	23	23	Exclamation		Come and share your master's happiness!	
+M	25	26	26	Exclamation		You wicked, lazy servant!	
+M	25	26	26	Question		So you knew that I harvest where I have not sown and gather where I have not scattered seed?	
+M	25	37	37	Question		Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?	
+M	25	38	38	Question		When did we see you a stranger and invite you in, or needing clothes and clothe you?	
+M	25	39	39	Question		When did we see you sick or in prison and go to visit you?	
+M	25	44	44	Question		Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?	
+M	26	1	1	Individual		Jesus	
+M	26	4	4	Individual		Jesus	
+M	26	6	6	Individual		Jesus	
+M	26	10	10	Individual		Jesus	
+M	26	17	17	Individual		Jesus	
+M	26	19	19	Individual		Jesus	
+M	26	20	20	Individual		Jesus	
+M	26	23	23	Individual		Jesus	
+M	26	25	25	Individual		Jesus	
+M	26	26	26	Individual		Jesus	
+M	26	31	31	Individual		Jesus	
+M	26	34	34	Individual		Jesus	
+M	26	36	36	Individual		Jesus	
+M	26	49	49	Individual		Jesus	
+M	26	50	50	Individual		Jesus	
+M	26	51	51	Individual		Jesus	
+M	26	52	52	Individual		Jesus	
+M	26	55	55	Individual		Jesus	
+M	26	57	57	Individual		Jesus	
+M	26	59	59	Individual		Jesus	
+M	26	62	62	Individual		Jesus	
+M	26	63	63	Individual		Jesus	
+M	26	64	64	Individual		Jesus	
+M	26	69	69	Individual		Jesus	
+M	26	71	71	Individual		Jesus	
+M	26	75	75	Individual		Jesus	
+M	26	3	3	Individual		Caiaphas	
+M	26	57	57	Individual		Caiaphas	
+M	26	6	6	Individual	Simon (Leper)	Simon	
+M	26	14	14	Individual		Judas Iscariot	
+M	26	16	16	Individual	Judas Iscariot	Judas	
+M	26	25	25	Individual	Judas Iscariot	Judas	
+M	26	47	47	Individual	Judas Iscariot	Judas	
+M	26	49	49	Individual	Judas Iscariot	Judas	
+M	26	33	33	Individual	Peter (Simon)	Peter	
+M	26	35	35	Individual	Peter (Simon)	Peter	
+M	26	37	37	Individual	Peter (Simon)	Peter	
+M	26	40	40	Individual	Peter (Simon)	Peter	
+M	26	58	58	Individual	Peter (Simon)	Peter	
+M	26	69	69	Individual	Peter (Simon)	Peter	
+M	26	73	73	Individual	Peter (Simon)	Peter	
+M	26	75	75	Individual	Peter (Simon)	Peter	
+M	26	37	37	Individual		Zebedee	
+M	26	6	6	Location		Bethany	
+M	26	30	30	Location		Mount of Olives	
+M	26	32	32	Location		Galilee	
+M	26	69	69	Location		Galilee	
+M	26	36	36	Location		Gethsemane	
+M	26	71	71	Location		Nazareth	
+M	26	24	24	Exclamation		But woe to that man who betrays the Son of Man!	
+M	26	46	46	Exclamation		Rise!	
+M	26	46	46	Exclamation		Let us go!	
+M	26	46	46	Exclamation		Here comes my betrayer!	
+M	26	49	49	Exclamation		Greetings, Rabbi!	
+M	26	65	65	Exclamation		He has spoken blasphemy!	
+M	26	72	72	Exclamation		I don't know the man!	
+M	26	74	74	Exclamation		I don't know the man!	
+M	26	31	31	OldTestament		I will strike the shepherd, and the sheep of the flock will be scattered.	
+M	26	8	8	Question		Why this waste?"	
+M	26	10	10	Question		Why are you bothering this woman?	
+M	26	15	15	Question		What are you willing to give me if I deliver him over to you?	
+M	26	17	17	Question		Where do you want us to make preparations for you to eat the Passover?	
+M	26	22	22	Question		Surely you don't mean me, Lord?	
+M	26	25	25	Question		Surely you don't mean me, Rabbi?	
+M	26	40	40	Question		Couldn't you men keep watch with me for one hour?	
+M	26	45	45	Question		Are you still sleeping and resting?	
+M	26	53	53	Question		Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?	
+M	26	54	54	Question		But how then would the Scriptures be fulfilled that say it must happen in this way?	
+M	26	55	55	Question		Am I leading a rebellion, that you have come out with swords and clubs to capture me?	
+M	26	62	62	Question		Are you not going to answer?	
+M	26	62	62	Question		What is this testimony that these men are bringing against you?	
+M	26	65	65	Question		Why do we need any more witnesses?	
+M	26	66	66	Question		What do you think?	
+M	26	68	68	Question		Who hit you?	
+M	27	1	1	Individual		Jesus	
+M	27	3	3	Individual		Jesus	
+M	27	11	11	Individual		Jesus	
+M	27	14	14	Individual		Jesus	
+M	27	17	17	Individual		Jesus	
+M	27	18	18	Individual		Jesus	
+M	27	20	20	Individual		Jesus	
+M	27	22	22	Individual		Jesus	
+M	27	26	26	Individual		Jesus	
+M	27	27	27	Individual		Jesus	
+M	27	34	34	Individual		Jesus	
+M	27	37	37	Individual		Jesus	
+M	27	46	46	Individual		Jesus	
+M	27	48	48	Individual		Jesus	
+M	27	50	50	Individual		Jesus	
+M	27	53	53	Individual		Jesus	
+M	27	54	54	Individual		Jesus	
+M	27	55	55	Individual		Jesus	
+M	27	57	57	Individual		Jesus	
+M	27	58	58	Individual		Jesus	
+M	27	2	2	Individual		Pilate	
+M	27	13	13	Individual		Pilate	
+M	27	17	17	Individual		Pilate	
+M	27	19	19	Individual		Pilate	
+M	27	22	22	Individual		Pilate	
+M	27	23	23	Individual		Pilate	
+M	27	24	24	Individual		Pilate	
+M	27	58	58	Individual		Pilate	
+M	27	62	62	Individual		Pilate	
+M	27	65	65	Individual		Pilate	
+M	27	3	3	Individual	Judas Iscariot	Judas	
+M	27	5	5	Individual	Judas Iscariot	Judas	
+M	27	9	9	Individual		Jeremiah	
+M	27	16	16	Individual		Jesus Barabbas	
+M	27	17	17	Individual		Jesus Barabbas	
+M	27	20	20	Individual	Jesus Barabbas	Barabbas	
+M	27	21	21	Individual	Jesus Barabbas	Barabbas	
+M	27	26	26	Individual	Jesus Barabbas	Barabbas	
+M	27	32	32	Individual	Simon (Cyrene)	Simon	
+M	27	47	47	Individual		Elijah	
+M	27	49	49	Individual		Elijah	
+M	27	56	56	Individual		Mary Magdalene	
+M	27	61	61	Individual		Mary Magdalene	
+M	27	56	56	Individual	Mary (Jesus' mother)	Mary	
+M	27	56	56	Individual	James (Jesus' brother)	James	
+M	27	56	56	Individual	Joseph (Jesus' brother)	Joseph	
+M	27	56	56	Individual		Zebedee	
+M	27	57	57	Individual	Joseph (Arimathea)	Joseph	
+M	27	59	59	Individual	Joseph (Arimathea)	Joseph	
+M	27	61	61	Individual	Mary (other)	Mary	
+M	27	8	8	Location		Field of Blood	
+M	27	32	32	Location		Cyrene	
+M	27	33	33	Location		Golgotha	the place of the skull
+M	27	33	33	Location	Golgotha	the place of the skull	the place of the skull
+M	27	55	55	Location		Galilee	
+M	27	57	57	Location		Arimathea	
+M	27	33	33	Parenthetical		(which means "the place of the skull")	
+M	27	46	46	Parenthetical		(which means "My God, my God, why have you forsaken me?")	
+M	27	22	22	Exclamation		Crucify him!	
+M	27	23	23	Exclamation		Crucify him!	
+M	27	24	24	Exclamation		It is your responsibility!	
+M	27	25	25	Exclamation		His blood is on us and on our children!	
+M	27	29	29	Exclamation		Hail, king of the Jews!	
+M	27	40	40	Exclamation		You who are going to destroy the temple and build it in three days, save yourself!	
+M	27	40	40	Exclamation		Come down from the cross, if you are the Son of God!	
+M	27	42	42	Exclamation		He saved others,{" they said,} {"}but he can't save himself!	
+M	27	42	42	Exclamation		He's the King of Israel!	
+M	27	54	54	Exclamation		Surely he was the Son of God!"	
+M	27	46	46	OldTestament		My God, my God, why have you forsaken me?	
+M	27	4	4	Question		What is that to us?	
+M	27	11	11	Question		Are you the king of the Jews?	
+M	27	13	13	Question		Don't you hear the testimony they are bringing against you?	
+M	27	17	17	Question		Which one do you want me to release to you: Jesus Barabbas, or Jesus who is called the Messiah?	
+M	27	21	21	Question		Which of the two do you want me to release to you?	
+M	27	22	22	Question		What shall I do, then, with Jesus who is called the Messiah?	
+M	27	23	23	Question		Why?	
+M	27	23	23	Question		What crime has he committed?	
+M	27	46	46	Question		Eli, Eli, lema sabachthani?	
+M	27	46	46	Question		My God, my God, why have you forsaken me?	
+M	28	1	1	Individual		Mary Magdalene	
+M	28	1	1	Individual	Mary (other)	Mary	
+M	28	5	5	Individual		Jesus	
+M	28	9	9	Individual		Jesus	
+M	28	10	10	Individual		Jesus	
+M	28	16	16	Individual		Jesus	
+M	28	18	18	Individual		Jesus	
+M	28	7	7	Location		Galilee	
+M	28	10	10	Location		Galilee	
+M	28	16	16	Location		Galilee	

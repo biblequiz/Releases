@@ -1,0 +1,329 @@
+Book	Chapter	Start	End	Type	Label	Text	Notes
+R	1	1	1	Individual		Paul	
+R	1	3	3	Individual		David	
+R	1	7	7	Location		Rome	
+R	1	15	15	Location		Rome	
+R	1	25	25	Exclamation		So they worshiped and served the things God created instead of the Creator himself, who is worthy of eternal praise!	
+R	1	17	17	OldTestament		It is through faith that a righteous person has life.	
+R	2	1	1	Exclamation		You may think you can condemn such people, but you are just as bad, and you have no excuse!	
+R	2	6	6	OldTestament		He will judge everyone according to what they have done.	
+R	2	24	24	OldTestament		The Gentiles blaspheme the name of God because of you.	
+R	2	3	3	Question		Since you judge others for doing these things, why do you think you can avoid God's judgment when you do the same things?	
+R	2	4	4	Question		Don't you see how wonderfully kind, tolerant, and patient God is with you?	
+R	2	4	4	Question		Does this mean nothing to you?	
+R	2	4	4	Question		Can't you see that his kindness is intended to turn you from your sin?	
+R	2	21	21	Question		Well then, if you teach others, why don't you teach yourself?	
+R	2	21	21	Question		You tell others not to steal, but do you steal?	
+R	2	22	22	Question		You say it is wrong to commit adultery, but do you commit adultery?	
+R	2	22	22	Question		You condemn idolatry, but do you use items stolen from pagan temples?	
+R	2	26	26	Question		And if the Gentiles obey God's law, won't God declare them to be his own people?	
+R	3	21	21	Individual		Moses	
+R	3	5	5	Parenthetical		(This is merely a human point of view.)	
+R	3	2	2	Exclamation		Yes, there are great benefits!	
+R	3	4	4	Exclamation		Of course not!	
+R	3	6	6	Exclamation		Of course not!	
+R	3	8	8	Exclamation		The more we sin, the better it is!	
+R	3	31	31	Exclamation		Of course not!	
+R	3	4	4	OldTestament		You will be proved right in what you say, and you will win your case in court.	
+R	3	10	12	OldTestament		No one is righteous - not even one. No one is truly wise; no one is seeking God. All have turned away; all have become useless. No one does good, not a single one.	
+R	3	13	13	OldTestament		Their talk is foul, like the stench from an open grave. Their tongues are filled with lies.	
+R	3	13	13	OldTestament		Snake venom drips from their lips.	
+R	3	14	14	OldTestament		Their mouths are full of cursing and bitterness.	
+R	3	15	17	OldTestament		They rush to commit murder. Destruction and misery always follow them. They don't know where to find peace.	
+R	3	18	18	OldTestament		They have no fear of God at all.	
+R	3	1	1	Question		Then what's the advantage of being a Jew?	
+R	3	1	1	Question		Is there any value in the ceremony of circumcision?	
+R	3	3	3	Question		True, some of them were unfaithful; but just because they were unfaithful, does that mean God will be unfaithful?	
+R	3	5	5	Question		Isn't it unfair, then, for him to punish us?	
+R	3	6	6	Question		If God were not entirely fair, how would he be qualified to judge the world?	
+R	3	7	7	Question		But,{" someone might still argue,{ {"}how can God condemn me as a sinner if my dishonesty highlights his truthfulness and brings him more glory?	
+R	3	9	9	Question		Well then, should we conclude that we Jews are better than others?	
+R	3	27	27	Question		Can we boast, then, that we have done anything to be accepted by God?	
+R	3	29	29	Question		After all, is God the God of the Jews only?	
+R	3	29	29	Question		Isn't he also the God of the Gentiles?	
+R	3	31	31	Question		Well then, if we emphasize faith, does this mean that we can forget about the law?	
+R	4	1	1	Individual		Abraham	
+R	4	3	3	Individual		Abraham	
+R	4	9	9	Individual		Abraham	
+R	4	10	10	Individual		Abraham	
+R	4	11	11	Individual		Abraham	
+R	4	12	12	Individual		Abraham	
+R	4	13	13	Individual		Abraham	
+R	4	16	16	Individual		Abraham	
+R	4	17	17	Individual		Abraham	
+R	4	18	18	Individual		Abraham	
+R	4	19	19	Individual		Abraham	
+R	4	20	20	Individual		Abraham	
+R	4	22	22	Individual		Abraham	
+R	4	23	23	Individual		Abraham	
+R	4	6	6	Individual		David	
+R	4	16	16	Individual		Moses	
+R	4	19	19	Individual		Sarah	
+R	4	15	15	Parenthetical		(The only way to avoid breaking the law is to have no law to break!)	
+R	4	10	10	Exclamation		Clearly, God accepted Abraham before he was circumcised!	
+R	4	15	15	Exclamation		The only way to avoid breaking the law is to have no law to break!	
+R	4	18	18	Exclamation		That's how many descendants you will have!	
+R	4	3	3	OldTestament		Abraham believed God, and God counted him as righteous because of his faith.	
+R	4	7	8	OldTestament		Oh, what joy for those whose disobedience is forgiven, whose sins are put out of sight. Yes, what joy for those whose record the LORD has cleared of sin.	
+R	4	17	17	OldTestament		I have made you the father of many nations.	
+R	4	18	18	OldTestament		That's how many descendants you will have!	
+R	4	1	1	Question		What did he discover about being made right with God?	
+R	4	9	9	Question		Now, is this blessing only for the Jews, or is it also for uncircumcised Gentiles?	
+R	4	10	10	Question		But how did this happen?	
+R	4	10	10	Question		Was he counted as righteous only after he was circumcised, or was it before he was circumcised?	
+R	5	12	12	Individual		Adam	
+R	5	14	14	Individual		Adam	
+R	5	15	15	Individual		Adam	
+R	5	16	16	Individual		Adam	
+R	5	17	17	Individual		Adam	
+R	5	18	18	Individual		Adam	
+R	5	14	14	Individual		Moses	
+R	6	2	2	Exclamation		Of course not!	
+R	6	15	15	Exclamation		Of course not!	
+R	6	17	17	Exclamation		Thank God!	
+R	6	1	1	Question		Well then, should we keep on sinning so that God can show us more and more of his wonderful grace?	
+R	6	2	2	Question		Since we have died to sin, how can we continue to live in it?	
+R	6	3	3	Question		Or have you forgotten that when we were joined with Christ Jesus in baptism, we joined him in his death?	
+R	6	15	15	Question		Well then, since God's grace has set us free from the law, does that mean we can go on sinning?	
+R	6	16	16	Question		Don't you realize that you become the slave of whatever you choose to obey?	
+R	6	21	21	Question		And what was the result?	
+R	7	7	7	Exclamation		Of course not!	
+R	7	8	8	Exclamation		But sin used this command to arouse all kinds of covetous desires within me!	
+R	7	13	13	Exclamation		Of course not!	
+R	7	24	24	Exclamation		Oh, what a miserable person I am!	
+R	7	25	25	Exclamation		Thank God!	
+R	7	7	7	OldTestament		You must not covet.	
+R	7	1	1	Question		Now, dear brothers and sisters - you who are familiar with the law - don't you know that the law applies only while a person is living?	
+R	7	7	7	Question		Well then, am I suggesting that the law of God is sinful?	
+R	7	13	13	Question		But how can that be?	
+R	7	13	13	Question		Did the law, which is good, cause my death?	
+R	7	24	24	Question		Who will free me from this life that is dominated by sin and death?	
+R	8	3	3	Individual		Moses	
+R	8	9	9	Parenthetical		(And remember that those who do not have the Spirit of Christ living in them do not belong to him at all.)	
+R	8	24	25	Parenthetical		(If we already have something, we don't need to hope for it. But if we look forward to something we don't yet have, we must wait patiently and confidently.)	
+R	8	36	36	Parenthetical		(As the Scriptures say, "For your sake we are killed every day; we are being slaughtered like sheep.")	
+R	8	36	36	OldTestament		For your sake we are killed every day; we are being slaughtered like sheep.	
+R	8	31	31	Question		What shall we say about such wonderful things as these?	
+R	8	31	31	Question		If God is for us, who can ever be against us?	
+R	8	32	32	Question		Since he did not spare even his own Son but gave him up for us all, won't he also give us everything else?	
+R	8	33	33	Question		Who dares accuse us whom God has chosen for his own?	
+R	8	34	34	Question		Who then will condemn us?	
+R	8	35	35	Question		Can anything ever separate us from Christ's love?	
+R	8	35	35	Question		Does it mean he no longer loves us if we have trouble or calamity, or are persecuted, or hungry, or destitute, or in danger, or threatened with death?	
+R	9	5	5	Individual		Jacob	
+R	9	13	13	Individual		Jacob	
+R	9	5	5	Individual		Abraham	
+R	9	7	7	Individual		Abraham	
+R	9	8	8	Individual		Abraham	
+R	9	5	5	Individual		Isaac	
+R	9	7	7	Individual		Isaac	
+R	9	10	10	Individual		Isaac	
+R	9	9	9	Individual		Sarah	
+R	9	10	10	Individual		Rebekah	
+R	9	13	13	Individual		Esau	
+R	9	15	15	Individual		Moses	
+R	9	25	25	Individual		Hosea	
+R	9	27	27	Individual		Isaiah	
+R	9	29	29	Individual		Isaiah	
+R	9	29	29	Location		Sodom	
+R	9	29	29	Location		Gomorrah	
+R	9	33	33	Location		Jerusalem	
+R	9	11	12	Parenthetical		(This message shows that God chooses people according to his own purposes; he calls people, but not according to their good or bad works.)	
+R	9	3	3	Exclamation		cut off from Christ!	
+R	9	5	5	Exclamation		And he is God, the one who rules over everything and is worthy of eternal praise!	
+R	9	6	6	Exclamation		No, for not all who are born into the nation of Israel are truly members of God's people!	
+R	9	14	14	Exclamation		Of course not!	
+R	9	7	7	OldTestament		Isaac is the son through whom your descendants will be counted,	
+R	9	9	9	OldTestament		I will return about this time next year, and Sarah will have a son.	
+R	9	12	12	OldTestament		Your older son will serve your younger son.	
+R	9	13	13	OldTestament		I loved Jacob, but I rejected Esau.	
+R	9	15	15	OldTestament		I will show mercy to anyone I choose, and I will show compassion to anyone I choose.	
+R	9	17	17	OldTestament		I have appointed you for the very purpose of displaying my power in you and to spread my fame throughout the earth.	
+R	9	20	20	OldTestament		Should the thing that was created say to the one who created it, "Why have you made me like this?"	
+R	9	25	25	OldTestament		Those who were not my people, I will now call my people. And I will love those whom I did not love before.	
+R	9	26	26	OldTestament		Then, at the place where they were told, 'You are not my people,' there they will be called 'children of the living God.'	
+R	9	27	28	OldTestament		Though the people of Israel are as numerous as the sand of the seashore, only a remnant will be saved. For the LORD will carry out his sentence upon the earth quickly and with finality.	
+R	9	29	29	OldTestament		If the LORD of Heaven's Armies had not spared a few of our children, we would have been wiped out like Sodom, destroyed like Gomorrah.	
+R	9	33	33	OldTestament		I am placing a stone in Jerusalem that makes people stumble, a rock that makes them fall. But anyone who trusts in him will never be disgraced.	
+R	9	6	6	Question		Well then, has God failed to fulfill his promise to Israel?	
+R	9	14	14	Question		Are we saying, then, that God was unfair?	
+R	9	19	19	Question		Why does God blame people for not responding?	
+R	9	19	19	Question		Haven't they simply done what he makes them do?	
+R	9	20	20	Question		Who are you, a mere human being, to argue with God?	
+R	9	20	20	Question		Should the thing that was created say to the one who created it, "Why have you made me like this?"	
+R	9	21	21	Question		When a potter makes jars out of clay, doesn't he have a right to use the same lump of clay to make one jar for decoration and another to throw garbage into?	
+R	9	30	30	Question		What does all this mean?	
+R	9	32	32	Question		Why not?	
+R	10	5	5	Individual		Moses	
+R	10	19	19	Individual		Moses	
+R	10	16	16	Individual		Isaiah	
+R	10	20	20	Individual		Isaiah	
+R	10	6	6	Parenthetical		(to bring Christ down to earth)	
+R	10	7	7	Parenthetical		(to bring Christ back to life again)	
+R	10	15	15	Exclamation		How beautiful are the feet of messengers who bring good news!	
+R	10	6	6	OldTestament		Who will go up to heaven?	
+R	10	7	7	OldTestament		Who will go down to the place of the dead?	
+R	10	8	8	OldTestament		The message is very close at hand; it is on your lips and in your heart.	
+R	10	11	11	OldTestament		Anyone who trusts in him will never be disgraced.	
+R	10	13	13	OldTestament		Everyone who calls on the name of the LORD will be saved.	
+R	10	15	15	OldTestament		How beautiful are the feet of messengers who bring good news!	
+R	10	16	16	OldTestament		LORD, who has believed our message?	
+R	10	18	18	OldTestament		The message has gone throughout the earth, and the words to all the world.	
+R	10	19	19	OldTestament		I will rouse your jealousy through people who are not even a nation. I will provoke your anger through the foolish Gentiles.	
+R	10	20	20	OldTestament		I was found by people who were not looking for me. I showed myself to those who were not asking for me.	
+R	10	21	21	OldTestament		All day long I opened my arms to them, but they were disobedient and rebellious.	
+R	10	6	6	Question		Who will go up to heaven?	
+R	10	7	7	Question		Who will go down to the place of the dead?	
+R	10	14	14	Question		But how can they call on him to save them unless they believe in him?	
+R	10	14	14	Question		And how can they believe in him if they have never heard about him?	
+R	10	14	14	Question		And how can they hear about him unless someone tells them?	
+R	10	15	15	Question		And how will anyone go and tell them without being sent?	
+R	10	16	16	Question		LORD, who has believed our message?	
+R	10	18	18	Question		But I ask, have the people of Israel actually heard the message?	
+R	10	19	19	Question		But I ask, did the people of Israel really understand?	
+R	11	1	1	Individual		Abraham	
+R	11	16	16	Individual		Abraham	
+R	11	17	17	Individual		Abraham	
+R	11	28	28	Individual		Abraham	
+R	11	1	1	Individual		Benjamin	
+R	11	2	2	Individual		Elijah	
+R	11	9	9	Individual		David	
+R	11	28	28	Individual		Isaac	
+R	11	28	28	Individual		Jacob	
+R	11	26	26	Location		Jerusalem	
+R	11	1	1	Exclamation		Of course not!	
+R	11	4	4	Exclamation		No, I have 7,000 others who have never bowed down to Baal!	
+R	11	11	11	Exclamation		Of course not!	
+R	11	15	15	Exclamation		It will be life for those who were dead!	
+R	11	33	33	Exclamation		Oh, how great are God's riches and wisdom and knowledge!	
+R	11	33	33	Exclamation		How impossible it is for us to understand his decisions and his ways!	
+R	11	36	36	Exclamation		All glory to him forever!	
+R	11	3	3	OldTestament		LORD, they have killed your prophets and torn down your altars. I am the only one left, and now they are trying to kill me, too.	
+R	11	4	4	OldTestament		No, I have 7,000 others who have never bowed down to Baal!	
+R	11	8	8	OldTestament		God has put them into a deep sleep. To this day he has shut their eyes so they do not see, and closed their ears so they do not hear.	
+R	11	9	10	OldTestament		Let their bountiful table become a snare, a trap that makes them think all is well. Let their blessings cause them to stumble, and let them get what they deserve. Let their eyes go blind so they cannot see, and let their backs be bent forever.	
+R	11	26	27	OldTestament		The one who rescues will come from Jerusalem, and he will turn Israel away from ungodliness. And this is my covenant with them, that I will take away their sins.	
+R	11	34	34	OldTestament		For who can know the LORD's thoughts? Who knows enough to give him advice?	
+R	11	35	35	OldTestament		And who has given him so much that he needs to pay it back?	
+R	11	1	1	Question		I ask, then, has God rejected his own people, the nation of Israel?	
+R	11	2	2	Question		Do you realize what the Scriptures say about this?	
+R	11	4	4	Question		And do you remember God's reply?	
+R	11	11	11	Question		Did God's people stumble and fall beyond recovery?	
+R	11	34	34	Question		For who can know the LORD's thoughts?	
+R	11	34	34	Question		Who knows enough to give him advice?	
+R	11	35	35	Question		And who has given him so much that he needs to pay it back?	
+R	12	16	16	Exclamation		And don't think you know it all!	
+R	12	19	19	OldTestament		I will take revenge; I will pay them back,	
+R	12	20	20	OldTestament		If your enemies are hungry, feed them. If they are thirsty, give them something to drink. In doing this, you will heap burning coals of shame on their heads.	
+R	13	9	9	OldTestament		You must not commit adultery.	
+R	13	9	9	OldTestament		You must not murder.	
+R	13	9	9	OldTestament		You must not steal.	
+R	13	9	9	OldTestament		You must not covet.	
+R	13	9	9	OldTestament		Love your neighbor as yourself.	
+R	13	3	3	Question		Would you like to live without fear of the authorities?	
+R	14	11	11	OldTestament		As surely as I live,' says the LORD, 'every knee will bend to me, and every tongue will declare allegiance to God.	
+R	14	4	4	Question		Who are you to condemn someone else's servants?	
+R	14	10	10	Question		So why do you condemn another believer?	
+R	14	10	10	Question		Why do you look down on another believer?	
+R	15	12	12	Individual		Isaiah	
+R	15	12	12	Individual		David	
+R	15	19	19	Location		Jerusalem	
+R	15	25	25	Location		Jerusalem	
+R	15	26	26	Location		Jerusalem	
+R	15	27	27	Location		Jerusalem	
+R	15	31	31	Location		Jerusalem	
+R	15	19	19	Location		Illyricum	
+R	15	24	24	Location		Spain	
+R	15	28	28	Location		Spain	
+R	15	24	24	Location		Rome	
+R	15	26	26	Location		Macedonia	
+R	15	26	26	Location		Achaia	
+R	15	31	31	Location		Judea	
+R	15	3	3	OldTestament		The insults of those who insult you, O God, have fallen on me.	
+R	15	9	9	OldTestament		For this, I will praise you among the Gentiles; I will sing praises to your name.	
+R	15	10	10	OldTestament		Rejoice with his people, you Gentiles.	
+R	15	11	11	OldTestament		Praise the LORD, all you Gentiles. Praise him, all you people of the earth.	
+R	15	12	12	OldTestament		The heir to David's throne will come, and he will rule over the Gentiles. They will place their hope on him.	
+R	15	21	21	OldTestament		Those who have never been told about him will see, and those who have never heard of him will understand.	
+R	16	1	1	Individual		Phoebe	
+R	16	3	3	Individual		Priscilla	
+R	16	3	3	Individual		Aquila	
+R	16	5	5	Individual		Epenetus	
+R	16	6	6	Individual		Mary	
+R	16	7	7	Individual		Andronicus	
+R	16	7	7	Individual		Junia	
+R	16	8	8	Individual		Ampliatus	
+R	16	9	9	Individual		Urbanus	
+R	16	9	9	Individual		Stachys	
+R	16	10	10	Individual		Apelles	
+R	16	10	10	Individual		Aristobulus	
+R	16	11	11	Individual		Herodion	
+R	16	11	11	Individual		Narcissus	
+R	16	12	12	Individual		Tryphena	
+R	16	12	12	Individual		Tryphosa	
+R	16	12	12	Individual		Persis	
+R	16	13	13	Individual		Rufus	
+R	16	14	14	Individual		Asyncritus	
+R	16	14	14	Individual		Phlegon	
+R	16	14	14	Individual		Hermes	
+R	16	14	14	Individual		Patrobas	
+R	16	14	14	Individual		Hermas	
+R	16	15	15	Individual		Philologus	
+R	16	15	15	Individual		Julia	
+R	16	15	15	Individual		Nereus	
+R	16	15	15	Individual		Olympas	
+R	16	21	21	Individual		Timothy	
+R	16	21	21	Individual		Lucius	
+R	16	21	21	Individual		Jason	
+R	16	21	21	Individual		Sosipater	
+R	16	22	22	Individual		Tertius	
+R	16	22	22	Individual		Paul	
+R	16	23	23	Individual		Gaius	
+R	16	23	23	Individual		Erastus	
+R	16	23	23	Individual		Quartus	
+R	16	1	1	Location		Cenchrea	
+R	16	5	5	Location		Asia	
+J	1	1	1	Individual		James	
+J	1	1	1	Exclamation		Greetings!	
+J	2	21	21	Individual		Abraham	
+J	2	23	23	Individual		Abraham	
+J	2	21	21	Individual		Isaac	
+J	2	25	25	Individual		Rahab	
+J	2	6	6	Exclamation		But you dishonor the poor!	
+J	2	19	19	Exclamation		Good for you!	
+J	2	20	20	Exclamation		How foolish!	
+J	2	8	8	OldTestament		Love your neighbor as yourself.	
+J	2	11	11	OldTestament		You must not commit adultery,	
+J	2	11	11	OldTestament		You must not murder.	
+J	2	23	23	OldTestament		Abraham believed God, and God counted him as righteous because of his faith.	
+J	2	1	1	Question		My dear brothers and sisters, how can you claim to have faith in our glorious Lord Jesus Christ if you favor some people over others?	
+J	2	3	4	Question		If you give special attention and a good seat to the rich person, but you say to the poor one, "You can stand over there, or else sit on the floor" - well, doesn't this discrimination show that your judgments are guided by evil motives?	
+J	2	5	5	Question		Hasn't God chosen the poor in this world to be rich in faith?	
+J	2	5	5	Question		Aren't they the ones who will inherit the Kingdom he promised to those who love him?	
+J	2	6	6	Question		Isn't it the rich who oppress you and drag you into court?	
+J	2	7	7	Question		Aren't they the ones who slander Jesus Christ, whose noble name you bear?	
+J	2	14	14	Question		What good is it, dear brothers and sisters, if you say you have faith but don't show it by your actions?	
+J	2	14	14	Question		Can that kind of faith save anyone?	
+J	2	16	16	Question		What good does that do?	
+J	2	18	18	Question		How can you show me your faith if you don't have good deeds?	
+J	2	20	20	Question		Can't you see that faith without good deeds is useless?	
+J	2	21	21	Question		Don't you remember that our ancestor Abraham was shown to be right with God by his actions when he offered his son Isaac on the altar?	
+J	3	10	10	Exclamation		Surely, my brothers and sisters, this is not right!	
+J	3	11	11	Question		Does a spring of water bubble out with both fresh water and bitter water?	
+J	3	12	12	Question		Does a fig tree produce olives, or a grapevine produce figs?	
+J	4	4	4	Exclamation		You adulterers!	
+J	4	6	6	OldTestament		God opposes the proud but gives grace to the humble.	
+J	4	1	1	Question		What is causing the quarrels and fights among you?	
+J	4	1	1	Question		Don't they come from the evil desires at war within you?	
+J	4	4	4	Question		Don't you realize that friendship with the world makes you an enemy of God?	
+J	4	5	5	Question		Do you think the Scriptures have no meaning?	
+J	4	12	12	Question		So what right do you have to judge your neighbor?	
+J	4	14	14	Question		How do you know what your life will be like tomorrow?	
+J	5	11	11	Individual		Job	
+J	5	17	17	Individual		Elijah	
+J	5	4	4	Exclamation		For listen!	
+J	5	9	9	Exclamation		For look - the Judge is standing at the door!	
+J	5	17	17	Exclamation		Elijah was as human as we are, and yet when he prayed earnestly that no rain would fall, none fell for three and a half years!	
+J	5	13	13	Question		Are any of you suffering hardships?	
+J	5	13	13	Question		Are any of you happy?	
+J	5	14	14	Question		Are any of you sick?	
